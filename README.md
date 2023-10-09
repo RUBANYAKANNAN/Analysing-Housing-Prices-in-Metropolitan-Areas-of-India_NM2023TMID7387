@@ -2,7 +2,7 @@
 
 DASHBOARD PUBLIC LINK
 
-DASHBOARD 1 - https://public.tableau.com/views/AnalysingHousingPricesinMetropolitanAreasofIndia_16960743918460/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard 1 - https://public.tableau.com/views/AnalysingHousingPricesinMetropolitanAreasofIndia_16960743918460/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dashboard 2 - https://public.tableau.com/views/AnalysingHousingPricesinMetropolitanAreasofIndia_16960743918460/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
